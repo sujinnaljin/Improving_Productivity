@@ -25,5 +25,5 @@
     ![image](https://user-images.githubusercontent.com/20410193/133586695-ce1b4431-1fab-41b7-b0be-6fe25638d5fa.png)
 
 
-
-
+### 다음 👉🏻
+- [1️⃣ expression 명령어를 이용해 값 출력하기 ( feat. p, po, v 명령어)](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/printUsingExpression.md)
