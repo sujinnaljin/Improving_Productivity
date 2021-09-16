@@ -20,3 +20,6 @@ cdf() {  # short for cdfinder
 ```
 
 - finder 여러개 있으면 마지막에 열려있는 finder 기준으로 동작
+
+### 이전 👈🏻
+- [8️⃣ Xcode 단축키](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/xcodeShortcuts.md)
