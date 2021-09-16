@@ -81,3 +81,8 @@ Enter expressions, then terminate with an empty line to evaluate:
   ```
 
 - 하지만 Alias로 등록해두어도 별칭은 **해당 빌드 시점이 지나면, LLDB Session이 끝남과 동시에 사라지**기 때문에 Xcode를 실행시 LLDB 초기화를 위해 사용되는 **~/.lldbinit** 파일에 원하는 Command Alias를 추가해두면, 별칭을 매번 정해주지 않고 계속 사용 가능
+
+### 이전 👈🏻
+- [2️⃣ expression 명령어를 이용해 값 변경 및 변수 선언해보기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/modifyUsingExpression.md)
+### 다음 👉🏻
+- [4️⃣ 브레이크 포인트에 action 으로 추가 command 입력해서 디버깅 하기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/breakpointAction.md)
