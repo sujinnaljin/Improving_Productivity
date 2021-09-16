@@ -216,3 +216,8 @@ error: "isEmpty" is not a member of "(Swift.String) cruise.name"
 (Bool) $R4 = false
 ```
 
+
+### 이전 👈🏻
+- [0️⃣ 들어가기 전에](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/beforeStart.md)
+### 다음 👉🏻
+- [2️⃣ expression 명령어를 이용해 값 변경 및 변수 선언해보기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/modifyUsingExpression.md)
