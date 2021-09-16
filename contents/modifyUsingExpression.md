@@ -45,4 +45,7 @@ Enter expressions, then terminate with an empty line to evaluate:
 (lldb) e extension ViewController { func $changeBgColor() { self.view.backgroundColor = .red } }
 (lldb) e self.$changeBgColor()
 ```
-
+### 이전 👈🏻
+- [1️⃣ expression 명령어를 이용해 값 출력하기 ( feat. p, po, v 명령어)](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/printUsingExpression.md)
+### 다음 👉🏻
+- [3️⃣ expression 명령어와 unsafeBitCast를 이용해 시뮬레이터에서 속성 바뀌는것 바로 파악하기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/castUsingExpression.md)
