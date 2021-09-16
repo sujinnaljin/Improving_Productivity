@@ -28,7 +28,6 @@
 
   [![image](https://user-images.githubusercontent.com/20410193/132126800-61acef63-309f-4060-82df-36e1cd27cfc9.png)](https://user-images.githubusercontent.com/20410193/132126800-61acef63-309f-4060-82df-36e1cd27cfc9.png)
 
-- breakpoint나 다음 섹션에 나올 watchpoint를 lldb 명령어로 거는 방법은 가장 하단에 추가 해놓음. (인터페이스로 조작하는 상황이 더 많을 것 같아서 인터페이스 위주로 우선 소개)
 
 ## 💡 참고 - Xcode 13의 Column Breakpoints
 
