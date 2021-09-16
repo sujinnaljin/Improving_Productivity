@@ -64,3 +64,8 @@
 ```
 
 - 단축어로 `f` 로 되지 않을까 싶었는데 그건 `frame` 명령어의 약자였다
+
+### 이전 👈🏻
+- [6️⃣ lldb 오픈소스 Chisel 으로 할 수 있는 것들](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/Chisel.md)
+### 다음 👉🏻
+- [8️⃣ Xcode 단축키](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/xcodeShortcuts.md)
