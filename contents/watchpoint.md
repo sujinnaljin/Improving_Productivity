@@ -19,3 +19,8 @@
 - 워치포인트 사용시 주의할 점은 재빌드시 브포와 달리 유지되지 않는다는 것. 다시 걸어줘야함; 리빌드해도 breakpoint navigator 에는 여전히 워치포인트가 남아있긴 한디 안걸림;; 약간 어이없는 포인트
 
   **NOTE**: Watchpoints are not saved between executions of your program.
+
+### 이전 👈🏻
+- [4️⃣ 브레이크 포인트에 action 으로 추가 command 입력해서 디버깅 하기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/breakpointAction.md)
+### 다음 👉🏻
+- [6️⃣ lldb 오픈소스 Chisel 으로 할 수 있는 것들](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/Chisel.md)
