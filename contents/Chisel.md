@@ -133,3 +133,8 @@ command script import /usr/local/opt/chisel/libexec/fbchisellldb.py
 - 더 많은 명령어가 궁금하다면 아래 링크들 참고
   - [\[Xcode\][LLDB]Debugging With Xcode, LLDB and Chisel](https://minsone.github.io/ios/mac/xcode-lldb-debugging-with-xcode-lldb-and-chisel) 
   - https://github.com/facebook/chisel/wiki
+
+### 이전 👈🏻
+- [5️⃣ 변수에 watchpoint 걸어보기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/watchpoint.md)
+### 다음 👉🏻
+- [7️⃣ Execution Command (continue, step over, step in, step out)](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/executionCommand.md)
