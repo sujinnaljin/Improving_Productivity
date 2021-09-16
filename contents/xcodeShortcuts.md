@@ -93,3 +93,7 @@
 
 ![image](https://user-images.githubusercontent.com/20410193/133589098-a5138bec-0e20-4543-a067-ca8b092fb49d.png)
 
+### 이전 👈🏻
+- [7️⃣ Execution Command (continue, step over, step in, step out)](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/executionCommand.md)
+### 다음 👉🏻
+- [9️⃣ 폴더 경로 cmd 에서 쉽게 잡기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/cmdPath.md)
