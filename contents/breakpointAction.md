@@ -49,3 +49,8 @@
 - 브포 수정하는것도 일반 line 브포와 동일하게 더블클릭해서 조작 가능
 
   ![image](https://user-images.githubusercontent.com/20410193/133587990-97460873-20f6-4eac-aa2c-ab94e2e8b65e.png)
+  
+### 이전 👈🏻
+- [3️⃣ expression 명령어와 unsafeBitCast를 이용해 시뮬레이터에서 속성 바뀌는것 바로 파악하기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/castUsingExpression.md)
+### 다음 👉🏻
+- [5️⃣ 변수에 watchpoint 걸어보기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/watchpoint.md)
