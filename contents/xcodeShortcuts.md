@@ -38,6 +38,9 @@
 | ⌘ + \     | 커서가 위치한 line에 breakpoint 추가/삭제 |
 | ⌘ + Y     | break point 활성화 / 비활성화             |
 | ⌃ + ⌘ + Y | Continue                                  |
+| F6   | Step Over |
+| F7   | Step In   |
+| F8   | Step Out  |
 
 ## Editor
 
@@ -46,9 +49,6 @@
 | ⌥ + ⌘ + ←, →          | Fold / UnFold Current Block                                  |
 | ⌃ + ⇧ + ↑, ↓ or click | 여러 줄 커서                                                 |
 | ⌃+ ⌥ + ⌘ + F          | Fix All Errors In-Scope                                      |
-| ⌘ + E                 | Text를 찾기 위해 선택된 영역을 저장                          |
-| ⌘ + G                 | 현재 파일에서 `⌘ + E`로 저장한 text와 매칭되는 다음 text 찾기 |
-| ⌘ + ⇧ + G             | 현재 파일에서 `⌘ + E`로 저장한 text와 매치되는 이전 text 찾기 |
 | ⌃ + ⌘ + E             | 범위 내 모두 편집                                            |
 | ⌃ + ⇧ + ⌘ + A         | Editor 우측에 author 창 보이기/닫기                          |
 | ⌘ + ↩                 | 전체 창으로 보기                                             |
