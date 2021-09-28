@@ -21,6 +21,10 @@
   **NOTE**: Watchpoints are not saved between executions of your program.
 - 그리고 String 같은거에 Watchpoint 걸면  `error: watch size of 16 is not supported` 에러 뱉으면서 워치포인트 설정 불가할때도 있음. 
   mac x86_64 architecture 를 사용하는 경우 1개의 워치포인트가 지원하는 최대 사이즈는 8바이트이기 때문. 그리고 워치 포인트 설정 가능 개수도 최대 4개임 (https://stackoverflow.com/questions/52072176/setting-watchpoints-for-large-data-structures-in-lldb)
+  
+- 참고로 좌측 stack frame의 backtrace 는 icon 으로 구분되는데, 각각의 의미는 아래와 같음
+  ![image](https://user-images.githubusercontent.com/20410193/135053614-ab1613c3-2e24-4094-a0e8-56cd2fc09bfb.png)
+
 ### 이전 👈🏻
 - [4️⃣ 브레이크 포인트에 action 으로 추가 command 입력해서 디버깅 하기](https://github.com/sujinnaljin/Improving_Productivity/blob/main/contents/breakpointAction.md)
 ### 다음 👉🏻
